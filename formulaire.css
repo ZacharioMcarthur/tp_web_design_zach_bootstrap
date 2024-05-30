@@ -1,0 +1,86 @@
+.body_menu{
+    margin:0px;
+    padding:0px;
+}
+.header{
+    background-color:bisque ;
+    height: 80px;
+    margin: 10px;
+}
+
+#logo1{width:200px ; height:150px}
+#logo2{width:150px ; height:150px;}
+#entete{display:flex;
+    text-decoration: underline;
+    font-family: Arial beige,sans-serif;
+    background-color:#EFE4B0;}
+#texte_uac{text-align:center}
+.centrer{text-align:center;
+text-decoration:underline;
+color:black;
+font-size:30px}
+#centrer1{text-align:center;color:black;font-size:30px}
+
+
+#body_essaie{
+    background-color:#EFE4B0;
+}
+
+.navbar-customer {
+    background-color: #EFE4B0;
+}
+.bg-customer{
+    background-color:bisque;
+}
+.btn-customer{
+    background-color:bisque;
+}
+nav ul li {
+    list-style-type: none;
+    display: inline-block;
+    padding: 10px;
+}
+ul li a{
+    color: black;
+    letter-spacing: 0.1rem;
+}
+ul li a:hover{
+    color:black;
+    text-decoration: underline;
+}
+.menu li{
+    float: left;
+    padding: 35px;
+}
+.menu li a{
+    text-decoration: none;
+}
+form{
+    padding:35px;
+    text-align: right;
+}
+input[type="search"]{
+    font-size: 17px;
+}
+#body_cv{background-color: #EFE4B0;text-decoration:none;}
+.titre{text-align:center;
+text-decoration:underline;
+color:black;}
+.souligner{text-decoration:underline}
+.centrer_cv{text-align:center;}
+.img{
+   width: 40%;
+   display:flex;
+   justify-content: space-between;
+}
+.img section img{
+    height: 258px;
+    width: 200px;
+
+}
+#text{
+    height: 258px;
+    margin-bottom: 0%;
+    margin-top: 60px;
+}
+input 

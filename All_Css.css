@@ -1,0 +1,96 @@
+/*page_1*/
+#logo1{width:200px ; height:150px}
+#logo2{width:150px ; height:150px}
+#ma_photo {display:flex;
+justify-content:space-between}
+#entete{display:flex;
+    text-decoration: underline;
+    font-family: Arial black,sans-serif;
+    background-color:#EFE4B0;}
+#body_p1{
+    background-color:#EFE4B0;
+}
+#texte_uac{text-align:center}
+.centrer{text-align:center;
+text-decoration:underline;
+color:black;
+font-size:30px}
+#centrer1{text-align:center;color:black;font-size:30px}
+.centrer2{text-align:center;
+text-decoration:underline;
+color:black;
+font-size:20px}
+.centrer3{font-size:18px;}
+
+/*menu*/
+#body_menu{background-image:url(draperie.avif);;}
+.titre_menu{text-decoration:underline;list-style: none}
+
+/*page accueil*/
+#body_accueil{background-image:url(#8283E3.png);background-position:center}
+
+/*cv*/
+  
+  
+#body_cv{
+    background-color:#EFE4B0;
+    text-decoration:none;
+}
+.titre{text-align:center;
+text-decoration:underline;
+color:black;}
+.souligner{text-decoration:underline}
+.centrer_cv{text-align:center;}
+.img{
+   width: 40%;
+   display:flex;
+   justify-content: space-between;
+}
+.img section img{
+    height: 258px;
+    width: 200px;
+
+}
+#text{
+    height: 258px;
+    margin-bottom: 0%;
+    margin-top: 60px;
+}
+/*tableau 1*/
+table,caption,td{border:1px solid black; border-collapse:collapse}
+#IG_red {background-color:red; color:Blue;
+font-family: Arial;}
+#GRH_yellow{background-color:yellow}
+.big{padding:20px; padding-right:50px;padding-left:50px; text-align:center}
+#Arial {font-family: Arial}
+
+
+#body_essaie{
+    background-color:brown;
+}
+#body_t1{
+    background-image:#EFE4B0;
+    height: 150vh; /*viewportE4B0  height pour couvrir tout l'ecran*/
+    background-position: center;
+    background-size: cover;
+    display:flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+    padding: 0 20px;
+    margin-top: 20%;
+}
+
+
+#body_t2{
+    background-image:url(cloud.png);
+    height: 150vh; /*viewport height pour couvrir tout l'ecran*/
+    background-position: center;
+    background-size: cover;
+    display:flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+    padding: 0 20px;
+    margin-top: 20%;
+}

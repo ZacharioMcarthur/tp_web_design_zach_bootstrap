@@ -1,0 +1,16 @@
+.logo{width:150px ; height:150px}
+#ma_photo {display:flex;
+justify-content:space-between}
+#entete{display:flex;margin:auto;
+justify-content:space-between;text-align: justify;}
+#texte_uac{text-align:center}
+.centrer{text-align:center;
+text-decoration:underline;
+color:black;
+font-size:30px}
+#centrer3{text-align:center;color:black;font-size:30px}
+.centrer2{text-align:center;
+text-decoration:underline;
+color:black;
+font-size:20px}
+.centrer3{font-size:20px;font-family:Algerian;}
